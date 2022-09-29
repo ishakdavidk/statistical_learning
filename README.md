@@ -1,2 +1,3 @@
-# statistical_learning
-Dongseo University
+## Statistical learning
+
+Prof. Lee Byung Gook
